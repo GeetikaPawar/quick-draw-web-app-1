@@ -1,0 +1,28 @@
+body{
+    background-color: lightpink;
+}
+#score{
+    float:left;
+    margin-left: 5px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+#timer{
+    font-size: 20px;
+    float: right;
+    margin-right: 5px;
+    font-family: 'Oswald', sans-serif;
+}
+#sketch{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color:mediumorchid;
+
+}
+#show_sketch{
+    float: right;
+    margin-right: 5px;
+}
+#name,#confi{
+   font-size: 20px;
+}
